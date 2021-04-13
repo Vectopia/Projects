@@ -1,1 +1,4 @@
-test
+Link: https://cs61c.org/su20/projects/proj2/
+Objective: The purpose of this project is to have you implement a simple, yet extremely useful system in RISC-V assembly language. You will learn to use registers efficiently, write functions, use calling conventions for calling functions, as well as external ones, allocate memory on the stack and heap, work with pointers and more!
+
+To make the project more interesting, you will implement functions which operate on matrices and vectors – for example, matrix multiplication. You will then use these functions to construct a simple Artificial Neural Net (ANN), which will be able to classify handwritten digits to their actual number! You will see that ANNs can be simply implemented using basic numerical operations, such as vector inner product, matrix multiplications, and thresholding.
