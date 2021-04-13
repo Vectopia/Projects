@@ -1,0 +1,12 @@
+---
+:id: 39852444
+:submitters:
+- :name: Vector Wang
+  :email: vector.wang@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-07-09 22:49:27.299303000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-07-09 15:49:27.299303000 Z
+:status: processed
+:score: 66.75
